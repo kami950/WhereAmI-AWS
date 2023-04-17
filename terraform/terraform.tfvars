@@ -1,1 +1,1 @@
-STAGE = "kamar"
+STAGE = "YOUR_STAGE_HERE"

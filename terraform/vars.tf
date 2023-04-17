@@ -5,3 +5,7 @@ variable "AWS_REGION" {
 variable "STAGE" {
   description = "Stage name you want to append to all infrastructure."
 }
+
+variable "LAMBDA_RUNTIME" {
+  default = "nodejs12.x"
+}
