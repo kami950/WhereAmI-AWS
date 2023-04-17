@@ -1,0 +1,11 @@
+{
+  "name": "where-am-i",
+  "version": "1.0.0",
+  "description": "A simple NodeJS project which will deploy an AWS lambda returning it's current deployment region.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamar Ali",
+  "license": "ISC"
+}
